@@ -1,0 +1,227 @@
+{
+  "name": "Abhishek Basil Joy",
+  "eyebrow": "FILMMAKER / EDITOR / CURIOUS HUMAN",
+  "headline": "Made for the curious. Not the endless scroll.",
+  "subheadline": "Original films, visual experiments and reimagined worlds. A quiet corner of the internet for anyone who wants to look closer.",
+  "manifesto": "I wanted a place for my work to exist without fighting for a few seconds of attention. There is no feed to keep up with here. Just choose something that catches your eye, press play, and take your time.",
+  "about": "I’m Abhishek Basil Joy — ABJ. I make films, experiment with editing, and follow ideas that refuse to sit neatly inside a template. Some projects are personal, some are playful, and some simply ask a question. This website is where I share them on my own terms.",
+  "contact": "A film, a collaboration, or an idea that doesn't fit the usual rules. If you think we could make something worth watching, let's talk.",
+  "instagram": "https://www.instagram.com/abhishek.basil/",
+  "education": [
+    {
+      "degree": "Bachelor of Arts in Visual Communication",
+      "school": "Divine Institute of Media Science",
+      "location": "Thrissur, Kerala, India",
+      "note": ""
+    },
+    {
+      "degree": "Post-Graduation Diploma in Social Media Marketing",
+      "school": "Conestoga College",
+      "location": "Ontario, Canada",
+      "note": ""
+    }
+  ],
+  "projects": [
+    {
+      "id": "the-way-back",
+      "title": "THE WAY BACK",
+      "kind": "live",
+      "description": "A Halloween Eve suspense-mystery short film written and conceived by Deva Nanda K V and Abhishek Basil Joy. Some questions are best left unanswered until the film ends.",
+      "subtitle": "Written & conceived with Deva Nanda K V.",
+      "image": "assets/the-way-back.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "the-spin",
+      "title": "THE SPIN",
+      "kind": "featured",
+      "description": "A personal visual piece about anxiety and mental health — the kind of experience that can be difficult to put into words. A project especially close to me.",
+      "subtitle": "A film about the mind when it refuses to slow down.",
+      "image": "assets/the-spin.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "breathe",
+      "title": "Breathe.",
+      "kind": "featured",
+      "description": "An experimental piece with a simple reminder: when life moves too quickly, do not forget to breathe.",
+      "subtitle": "Sometimes the simplest thing matters most.",
+      "image": "assets/breathe.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "trail-run",
+      "title": "TRAIL RUN",
+      "kind": "featured",
+      "description": "A trail-day visual experiment filmed by me on an iPhone 17 Pro using its 0.5× ultra-wide lens.",
+      "subtitle": "Shot on iPhone 17 Pro · Ultra-wide perspective",
+      "image": "assets/trail-run.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "sapiens",
+      "title": "SAPIENS",
+      "kind": "featured",
+      "description": "An educational visual documentary exploring the story of humankind and the curiosity that comes with learning where we came from.",
+      "subtitle": "A visual exploration of human history.",
+      "image": "assets/sapiens.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "david-goliath",
+      "title": "DAVID AND GOLIATH",
+      "kind": "ai-adaptation",
+      "description": "An AI reimagining of the familiar David and Goliath story, with a small twist for viewers who pay attention.",
+      "subtitle": "AI reimagining · An unexpected perspective.",
+      "image": "assets/david-goliath.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "ranam",
+      "title": "RANAM",
+      "kind": "ai-adaptation",
+      "description": "An AI adaptation inspired by the Malayalam film Ranam, created in collaboration with Amal Biju.",
+      "subtitle": "AI adaptation · With Amal Biju.",
+      "image": "assets/ranam.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "fight-club",
+      "title": "FIGHT CLUB",
+      "kind": "ai-adaptation",
+      "description": "An AI adaptation inspired by Fight Club, exploring the alter ego, inner conflict and the sides of ourselves we struggle to understand.",
+      "subtitle": "AI adaptation · The idea of an alter ego.",
+      "image": "assets/fight-club.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "adhd",
+      "title": "BEYOND THE GIMMICK",
+      "kind": "ai-adaptation",
+      "description": "A response to shallow social-media portrayals of ADHD. It asks viewers to look beyond online trends and take the lived experience seriously.",
+      "subtitle": "AI visual experiment · Working title.",
+      "image": "",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "dybbuk",
+      "title": "DYBBUK — THE MOSHE FAMILY",
+      "kind": "ai-short",
+      "description": "Part one of a fictional, myth-inspired AI micro short film that imagines a mysterious history around the Jewish settlement in Cochin. This is a work of fiction, not a historical account.",
+      "subtitle": "AI micro short film · Part I.",
+      "image": "assets/dybbuk.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "a-different-story",
+      "title": "A DIFFERENT STORY",
+      "kind": "ai-short",
+      "description": "A teaser for part two. What if the history we heard was only one version of the story?",
+      "subtitle": "AI short film · Part II teaser.",
+      "image": "assets/a-different-story.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "into-the-mindverse",
+      "title": "INTO THE MINDVERSE",
+      "kind": "ai-short",
+      "description": "An AI superhero short film exploring connected worlds, parallel realities and the possibilities of a multiverse.",
+      "subtitle": "AI superhero short · Connected worlds.",
+      "image": "assets/into-the-mindverse.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "dark-johnny",
+      "title": "JOHNNY JOHNNY: REIMAGINED",
+      "kind": "ai-short",
+      "description": "A darker take on the familiar Johnny Johnny Yes Papa rhyme, turning a childhood memory into something a little unsettling.",
+      "subtitle": "AI dark reimagining.",
+      "image": "assets/dark-johnny.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "tanaka",
+      "title": "TANAKA",
+      "kind": "creative",
+      "description": "One of my favourite personal works. A film about looking at life differently, with a quieter thought about freedom and living on your own terms.",
+      "subtitle": "Chapter 32 · A little freedom between the frames.",
+      "image": "assets/tanaka.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "monochrome",
+      "title": "MONOCHROME",
+      "kind": "creative",
+      "description": "A visual experiment inspired by my love for black-and-white cinematography. An exploration of how mood can exist without colour.",
+      "subtitle": "Black, white and everything between.",
+      "image": "assets/monochrome.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "espoir",
+      "title": "ESPOIR",
+      "kind": "creative",
+      "description": "My visit to Niagara, approached as an experimental visual diary rather than a traditional travel vlog.",
+      "subtitle": "An unconventional travel diary.",
+      "image": "assets/espoir.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "all-that-glitters",
+      "title": "ALL THAT GLITTERS",
+      "kind": "creative",
+      "description": "Snow, sledding, friends, and Noah the Super Kid. A small winter adventure seen through my camera.",
+      "subtitle": "A winter day worth keeping.",
+      "image": "assets/all-that-glitters.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "livin",
+      "title": "LIVIN'",
+      "kind": "creative",
+      "description": "Random moments from my gallery, brought together through editing to create something new out of ordinary footage.",
+      "subtitle": "A different rhythm for everyday moments.",
+      "image": "assets/livin.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "wake-up",
+      "title": "WAKE UP",
+      "kind": "creative",
+      "description": "A real-world motion graphics and After Effects experiment — made with traditional editing techniques, not generative AI.",
+      "subtitle": "Practical editing & visual effects.",
+      "image": "assets/wake-up.webp",
+      "video": "",
+      "published": true
+    },
+    {
+      "id": "age-of-madness",
+      "title": "AGE OF MADNESS",
+      "kind": "creative",
+      "description": "A playful and chaotic editing experiment I made with my friend Nikita. Sometimes the idea is simply to try something wild.",
+      "subtitle": "An edit that does not take itself too seriously.",
+      "image": "assets/age-of-madness.webp",
+      "video": "",
+      "published": true
+    }
+  ],
+  "email": "abhishekbasil369@gmail.com"
+}

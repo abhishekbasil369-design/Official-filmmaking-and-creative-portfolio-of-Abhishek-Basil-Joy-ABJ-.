@@ -1,0 +1,17 @@
+ABJ — Abhishek Basil Joy | Portrait and Gmail update
+===================================================
+Updates:
+- Your ORIGINAL photograph is in assets/abj-person-behind-the-frames.jpg (no visual modification).
+- Person Behind It uses the photograph instead of the old ABJ graphic.
+- Final Contact section has only Email me, addressed to abhishekbasil369@gmail.com.
+- Original film thumbnails, project copy, and gallery order are preserved.
+- The canonical URL, Open Graph URL, schema URL, robots and sitemap now use https://abhishekbasiljoy.com.
+
+CRITICAL — SAFE PUBLISHING AFTER THE LAST BROKEN GITHUB DEPLOYMENT
+Do not publish this automatically or replace the good restored live version until verified.
+Use Netlify's Deploy preview or a draft deployment to inspect the result before publishing.
+Check: (1) Film posters, (2) the About portrait, (3) the Gmail button, (4) navigation on phone and desktop.
+After making GitHub changes, keep Netlify auto publishing LOCKED until you have checked the new deployment.
+
+For existing GitHub repository: upload the changed file set, preserving the exact folder structure.
+When using the complete ZIP for a one-off Netlify deployment, upload the ZIP itself or extracted folder via Netlify's manual deployment interface (do not upload the ZIP file INTO GitHub).

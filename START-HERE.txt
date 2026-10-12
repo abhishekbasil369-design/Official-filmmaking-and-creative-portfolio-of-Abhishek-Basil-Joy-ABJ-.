@@ -1,0 +1,73 @@
+ABJ. — ABHISHEK BASIL JOY | START HERE
+================================================
+
+YOUR NEW PORTFOLIO IS BUILT.
+
+LATEST UPDATE — FILM COLLECTION ORDER
+The public site now presents your work in this exact sequence:
+  01  Real-World Short Films — THE WAY BACK
+  02  Main Works — THE SPIN, Breathe, TRAIL RUN, SAPIENS
+  03  AI Filmmaking — adaptations and original AI short films together
+  04  Cinematography & Creative Edits — TANAKA first
+After these, the philosophy, About, Education, and Contact sections remain in place.
+The header menu and Explore the work button follow the same order.
+Your posters and descriptions are unchanged; YouTube video links remain optional.
+
+OPEN IT
+- Double-click index.html on a computer, or visit your Netlify link after deployment.
+- The film gallery, project pages, About, Education and Contact are already built.
+- The film posters are your original title-card screenshots, cropped into clean widescreen thumbnails.
+- No videos have been linked yet, as requested.
+
+UPDATE THE LIVE WEBSITE ON NETLIFY
+1. Keep this complete folder or ZIP file (including the assets folder).
+2. Sign into app.netlify.com and open your existing project: abhishekbasiljoy.
+3. Open the Deploys section. Drag this entire site's ZIP to the manual deployment area.
+   If Netlify asks for a folder instead, unzip it and drag the folder containing index.html.
+4. After the new deployment succeeds, refresh your actual .netlify.app website.
+5. All changes remain on your existing site address. Uploading this ZIP to a NEW Netlify project would instead create a second website.
+
+EMAIL BUTTON
+Your email address was not provided, so no address was invented.
+The website includes a working Instagram contact button meanwhile.
+When you supply your email, set it through the private studio after connecting it
+or update the email value in starter.json AND in the embedded starterData inside index.html.
+If you want me to do that, send the public email address you want people to use.
+
+VIDEOS — LATER
+You said you will add YouTube links after building the website.
+That is supported. Every film has its own project page and a YouTube-friendly player.
+Right now project cards show the cover and description; no broken empty video players.
+After the private studio is configured, add a YouTube link to each project and Save.
+YouTube videos remain hosted on YouTube, but are playable inside your portfolio.
+
+PRIVATE EDITING STUDIO — ONE-TIME CLOUD SETUP REQUIRED
+/studio.html is an editing interface, but the public website is functional WITHOUT it.
+The private editor is NOT active until you set up Supabase.
+Steps (best done on a desktop for the first time):
+1. Create your own project at https://supabase.com and keep the login secure.
+2. Under Authentication > Users, add ONLY your own login. Prefer disabling public sign-ups.
+3. Run setup.sql in Supabase SQL Editor.
+4. In Supabase Authentication > Users copy YOUR user's UUID.
+5. Run this SQL statement, replacing the example UUID with your actual UUID:
+     insert into public.site_admins(user_id) values ('YOUR-UUID-HERE');
+6. In Supabase > Project Settings > API, copy Project URL and PUBLIC anon/publishable key.
+7. Edit config.js with only those two public values. NEVER put a service_role or secret key in public files.
+8. Redeploy the updated ZIP to the SAME Netlify project.
+9. Visit /studio.html, sign in as owner, and tap Activate my film library ONCE.
+10. From then on, project data, images, YouTube URLs and your public contact email
+    can be saved in your owner-only studio without reuploading the website files.
+    Public visitors can never use the editing permissions because of Supabase RLS policies.
+
+NOTE: This studio edits CONTENT, not arbitrary layouts and CSS.
+To make drag-and-drop design changes you would use a separate visual builder
+or edit the website's code; the HTML site is not automatically editable in Framer.
+
+SEARCH ENGINES
+- The public page has SEO metadata for Abhishek Basil Joy and ABJ.
+- It also has a sitemap and robots.txt.
+- Submit https://abhishekbasiljoy.netlify.app/ to Google Search Console.
+- Indexing is not automatic or guaranteed, and ABJ by itself is a broad term.
+
+THANK YOU FOR THE CURIOUS EYES.
+ABJ. / Abhishek Basil Joy

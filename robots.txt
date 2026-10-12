@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /studio.html
+
+Sitemap: https://abhishekbasiljoy.com/sitemap.xml
